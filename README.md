@@ -1,5 +1,3 @@
-# zhen
-The first code.
 <html>
 <head>
 <title>my first code
@@ -15,8 +13,8 @@ The first code.
                          color:#9ab;
                          float:left;
                          text-decoration:none;
-                         padding:4px;
-                         margin:4px;
+                         padding:5px;
+                         margin:5px;
                          }
 #menu a:hover{
               color:#f00;
