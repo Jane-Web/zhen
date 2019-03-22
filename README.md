@@ -1,7 +1,6 @@
 <html>
 <head>
-<title>my first code
-</title>
+<title>my first code</title>
 <meta http-equiv="content-type" content="text/html charset=utf-8"/>
 <style type="text/css">
 .class{
